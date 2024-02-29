@@ -1,0 +1,40 @@
+{
+  // "editor.fontFamily": "Dank Mono",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 15,
+  "editor.lineNumbers": "on",
+  "explorer.confirmDragAndDrop": false,
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "reactSnippets.settings.importReactOnTop": false,
+  "editor.cursorBlinking": "expand",
+  "editor.find.cursorMoveOnType": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.accessibilitySupport": "off",
+  "terminal.integrated.env.windows": {},
+  "git.autofetch": true,
+  "workbench.statusBar.visible": true,
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "terminal.integrated.fontFamily": "Go mono",
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "intelephense.environment.phpVersion": "8.3.1",
+  "workbench.colorTheme": "Theme Mix"
+}
